@@ -18,8 +18,8 @@
   },
   "dependencies": {},
   "peerDependencies": {
-    "react": "^16 || ^17 || ^18",
-    "react-dom": "^16 || ^17 || ^18"
+    "react": "^16 || ^17 || ^18 || ^19",
+    "react-dom": "^16 || ^17 || ^18 || ^19"
   },
   "devDependencies": {
     "@size-limit/preset-small-lib": "^8.1.0",
